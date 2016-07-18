@@ -1,0 +1,80 @@
+/**/_xdc_._hb5ebt && _xdc_._hb5ebt( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "California State University Fullerton",
+               "short_name" : "California State University Fullerton",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "800",
+               "short_name" : "800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North State College Boulevard",
+               "short_name" : "N State College Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fullerton",
+               "short_name" : "Fullerton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92831",
+               "short_name" : "92831",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "California State University Fullerton, 800 North State College Boulevard, Fullerton, CA 92831, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.888931,
+                  "lng" : -117.8805351
+               },
+               "southwest" : {
+                  "lat" : 33.8756913,
+                  "lng" : -117.8899955
+               }
+            },
+            "location" : {
+               "lat" : 33.8831638,
+               "lng" : -117.8868519
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.888931,
+                  "lng" : -117.8805351
+               },
+               "southwest" : {
+                  "lat" : 33.8756913,
+                  "lng" : -117.8899955
+               }
+            }
+         },
+         "place_id" : "ChIJkRPGjM7V3IARVfNKubsQmCs",
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
